@@ -2342,7 +2342,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	order:-1;
 	z-index:1000;
 }
-
+padding-top: 145px !important;
 .rtcConnectionStatus-2-jIsi {
 	padding:0;
 }
